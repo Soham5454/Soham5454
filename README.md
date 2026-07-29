@@ -90,7 +90,7 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 </div>
 
 <div align="center">
-  <img src="./github-contribution-grid-graph.svg" />
+  <img src="https://github-readme-activity-graph-dusky-tau.vercel.app/graph?username=soham5454&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF" />
 </div>
 
 ---
