@@ -81,8 +81,8 @@ OUTPUT ► Thanks for visiting my profile! Let's build something awesome.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api?username=soham5454&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-flax-chi-85.vercel.app/api/top-langs/?username=soham5454&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
